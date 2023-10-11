@@ -1,6 +1,6 @@
 <html>
     <body>
-        <form method="GET" action="processForm.php">
+        <form method="POST" action="part2.php">
             <p>Enter your name</p>
             <input name="firstName"/>
             <br>
